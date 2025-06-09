@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi, sou Thairã, tenho 16 anos estou começando a fazer curso de programação
 
 <!--
 **Thairan355/Thairan355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
